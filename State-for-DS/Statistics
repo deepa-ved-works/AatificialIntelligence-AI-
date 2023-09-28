@@ -1,0 +1,25 @@
+Disease(y/n) ---> Categorical or Qualitative ---> Nominal
+Biological Sex   ---> Categorical or Qualitative ---> Nominal
+Country Birth  ---> Categorical or Qualitative ---> Nominal
+Hair Color  ---> Categorical or Qualitative ---> Nominal
+
+SIZE Coffee(s/m/l) ---> Categorical or Qualitative ---> Ordinal
+Place in race ---> Categorical or Qualitative ---> Ordinal
+
+Number of(#) People in E.R ---> Numeric or Quantitative ---> Discrete
+# Birth in Day ---> Numeric or Quantitative ---> Discrete
+
+Age   ---> Numeric or Quantitative  ---> Continues
+Weight   ---> Numeric or Quantitative ---> Continues
+Race ---> Numeric or Quantitative ---> Continues
+BMI ---> Numeric or Quantitative ---> Continues
+Income ---> Numeric or Quantitative ---> Continues
+Temprature(F to C) ---> Numeric or Quantitative ---> Continues
+
+
+
+
+
+
+
+
